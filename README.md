@@ -20,6 +20,12 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+## 0.6.3
+
+- 책등 클릭과 꺼낸 표지 좌우 밀기 병행
+- 책등 두께와 클릭 영역 수정, 층별 선반과 작은 하단 메뉴
+- 입구 문구 순환과 첫 톡 안내 UI 정리
+
 ## 0.6.2
 
 - 꽂혀 있던 책이 돌아 나오는 권별 책장, 표지 비율에 맞춘 책등
