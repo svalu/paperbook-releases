@@ -20,6 +20,13 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+## 0.6.5
+
+- 빈 곳을 가로로 밀어 입구·실내 배경 둘러보기
+- 풍성한 라면 김, 어색한 눈꺼풀 덮기 효과 제거
+- 읽은 표지 재사용과 반복되는 나타남 효과 개선
+- 스크롤 후 꺼낸 책 위치 보정
+
 ## 0.6.4
 
 - 실내·입구 전등 변화, 라면 김, 리온이 숨쉬기·고개·눈 깜빡임
