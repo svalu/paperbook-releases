@@ -20,6 +20,12 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+## 0.6.4
+
+- 실내·입구 전등 변화, 라면 김, 리온이 숨쉬기·고개·눈 깜빡임
+- 모바일 실내 구도와 프리텐다드 버튼
+- 표지 스켈레톤과 Android 디스크 캐시로 표지 재사용
+
 ## 0.6.3
 
 - 책등 클릭과 꺼낸 표지 좌우 밀기 병행
