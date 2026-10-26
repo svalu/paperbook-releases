@@ -20,6 +20,13 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+## 0.6.6
+
+- 책등 전용 소형 이미지 캐시와 제한된 동시 로딩
+- 선택한 책만 큰 표지·3D 효과를 사용해 책장 부담 감소
+- 독서 후 복귀 및 묶음 재진입 시 이미 읽은 책등 유지
+- 일반 페이지 넘김 감도와 중앙 스와이프 개선
+
 ## 0.6.5
 
 - 빈 곳을 가로로 밀어 입구·실내 배경 둘러보기
