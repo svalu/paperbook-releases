@@ -1,2 +1,31 @@
-# paperbook-releases
-만화책방 Android 설치 파일과 업데이트 안내
+# 만화책방
+
+종이책을 고르듯 꺼내 읽는 Android 로컬 만화·PDF 뷰어.
+
+[최신 Android APK 받기](https://github.com/svalu/paperbook-releases/releases/latest)
+
+## 설치와 업데이트
+
+1. 최신 배포 페이지의 `paperbook-버전.apk`를 받습니다.
+2. 받은 APK를 열고 Android 설치 안내를 따릅니다.
+3. 기존 앱을 삭제하지 않고 업데이트 설치하면 책장, 독서 기록, 메모를 유지할 수 있습니다.
+4. 0.6.2부터 앱의 버전 번호를 누른 뒤 **업데이트 확인**으로 새 버전을 확인할 수 있습니다.
+
+업데이트 확인과 다운로드는 직접 실행합니다. 설치 완료는 Android 확인이 필요합니다.
+이 저장소는 APK 배포용입니다. 원본 책 파일은 포함하지 않습니다.
+
+## 개인정보
+
+책, 독서 기록, 메모는 기기에 보관합니다. 업데이트 확인을 누르면 GitHub API에서 공개 배포 정보를 가져옵니다. 이 연결에서 IP와 일반 HTTP 요청 정보가 GitHub에 전달될 수 있지만 책, 독서 기록, 메모, 기기 식별자는 보내지 않습니다. 자동 주기 조회는 하지 않습니다.
+
+[앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## 0.6.2
+
+- 꽂혀 있던 책이 돌아 나오는 권별 책장, 표지 비율에 맞춘 책등
+- 조용한 책 마찰음과 책 꺼내기 소리
+- 두 번 누른 뒤 두 번째는 누른 채 좌우로 밀어 연속 넘기기
+- 독서 메뉴의 연속 넘기기 아이콘
+- 앱 정보의 GitHub 업데이트 확인
+
+ZIP·CBZ·PDF를 지원합니다. 소설 PDF의 문장 선택은 텍스트가 포함된 파일에서 사용할 수 있습니다.
