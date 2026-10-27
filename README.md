@@ -20,6 +20,12 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+## 0.6.7
+
+- 읽기 설정에서 터치 넘김 속도·손가락 민감도를 각각 슬라이더로 조절
+- 설정 자동 저장과 기본값 복원
+- 표지를 펼칠 때 장식용 백지 대신 읽던 페이지로 연결
+
 ## 0.6.6
 
 - 책등 전용 소형 이미지 캐시와 제한된 동시 로딩
