@@ -2,8 +2,8 @@
 
 종이책을 고르듯 꺼내 읽는 Android 로컬 만화·PDF 뷰어.
 
-> **최신 공개 버전: 0.6.31**  
-> 빠른 책장 스크롤의 빈 책등 복구와, 첫 장에서 두 쪽 펼침으로 넘어갈 때의 종이 전환을 고쳤어.
+> **최신 공개 버전: 0.6.32**  
+> 표지와 마지막 한 장도 빈 종이 한 장을 곁에 둔 두 쪽 펼침으로 보여주고, 촤라라 방향도 손가락과 반대로 맞췄어.
 
 [최신 Android APK 받기](https://github.com/svalu/paperbook-releases/releases/latest)
 
@@ -22,6 +22,12 @@
 책, 독서 기록, 메모는 기기에 보관합니다. 업데이트 확인을 누르면 GitHub API에서 공개 배포 정보를 가져옵니다. 이 연결에서 IP와 일반 HTTP 요청 정보가 GitHub에 전달될 수 있지만 책, 독서 기록, 메모, 기기 식별자는 보내지 않습니다. 자동 주기 조회는 하지 않습니다.
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## 0.6.32
+
+- 두 쪽 보기의 표지와 마지막 한 장도 빈 종이 한 장을 곁에 둔 펼침으로 표시
+- 첫 장에서 두 쪽으로 넘어갈 때 종이 전환 좌표를 일반 펼침과 통일
+- 촤라라 연속 넘기기는 넘기려는 방향의 반대로 밀도록 변경
 ## 0.6.31
 
 - 빠르게 되돌아온 책등이 비어 보이면 화면만 다시 그려 바로 복구
