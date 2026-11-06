@@ -2,8 +2,8 @@
 
 종이책을 고르듯 꺼내 읽는 Android 로컬 만화·PDF 뷰어.
 
-> **최신 공개 버전: 0.6.32**  
-> 표지와 마지막 한 장도 빈 종이 한 장을 곁에 둔 두 쪽 펼침으로 보여주고, 촤라라 방향도 손가락과 반대로 맞췄어.
+> **최신 공개 버전: 0.6.33**  
+> 표지는 처음처럼 가운데에서 시작하고, 첫 장은 표지 이동 뒤 속지가 넘어가며 내용이 보이도록 나눴어. 촤라라도 반대 방향으로 맞췄어.
 
 [최신 Android APK 받기](https://github.com/svalu/paperbook-releases/releases/latest)
 
@@ -23,6 +23,12 @@
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
+
+## 0.6.33
+
+- 표지는 처음처럼 가운데 한 장으로 시작
+- 첫 넘김은 표지가 먼저 옆으로 빠지고, 속지가 넘어가며 내용 펼침을 드러내도록 2단계로 분리
+- 촤라라 연속 넘기기는 넘기려는 방향의 반대로 밀기
 ## 0.6.32
 
 - 두 쪽 보기의 표지와 마지막 한 장도 빈 종이 한 장을 곁에 둔 펼침으로 표시
