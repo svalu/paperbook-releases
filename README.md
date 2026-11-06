@@ -2,8 +2,8 @@
 
 종이책을 고르듯 꺼내 읽는 Android 로컬 만화·PDF 뷰어.
 
-> **최신 공개 버전: 0.6.33**  
-> 표지는 처음처럼 가운데에서 시작하고, 첫 장은 표지 이동 뒤 속지가 넘어가며 내용이 보이도록 나눴어. 촤라라도 반대 방향으로 맞췄어.
+> **최신 공개 버전: 0.6.34**  
+> 첫 넘김에서도 실제 표지가 넘어가고, 중간에는 내용 대신 불투명한 속지 더미만 보이게 했어.
 
 [최신 Android APK 받기](https://github.com/svalu/paperbook-releases/releases/latest)
 
@@ -24,6 +24,11 @@
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 
+
+## 0.6.34
+
+- 첫 넘김의 컬 앞면을 실제 표지로 유지
+- 표지 이동 뒤 반대편에는 불투명한 속지 더미만 표시하고, 컬이 끝난 뒤 첫 내용 펼침 표시
 ## 0.6.33
 
 - 표지는 처음처럼 가운데 한 장으로 시작
