@@ -1,6 +1,9 @@
-# 만화책방
+# 고양이책방
 
 종이책을 고르듯 꺼내 읽는 Android 로컬 만화·PDF 뷰어.
+
+> **최신 공개 버전: 0.6.31**  
+> 빠른 책장 스크롤의 빈 책등 복구와, 첫 장에서 두 쪽 펼침으로 넘어갈 때의 종이 전환을 고쳤어.
 
 [최신 Android APK 받기](https://github.com/svalu/paperbook-releases/releases/latest)
 
@@ -19,6 +22,11 @@
 책, 독서 기록, 메모는 기기에 보관합니다. 업데이트 확인을 누르면 GitHub API에서 공개 배포 정보를 가져옵니다. 이 연결에서 IP와 일반 HTTP 요청 정보가 GitHub에 전달될 수 있지만 책, 독서 기록, 메모, 기기 식별자는 보내지 않습니다. 자동 주기 조회는 하지 않습니다.
 
 [앱 개인정보처리방침](https://paperbook-privacy.smoky-song-9821.chatgpt.site) · [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+## 0.6.31
+
+- 빠르게 되돌아온 책등이 비어 보이면 화면만 다시 그려 바로 복구
+- 두 쪽 보기에서 표지처럼 한 장만 있던 첫 장을 넘길 때 종이가 펼침 사이로 늘어나던 전환 수정
+- 실기기 원인 확인용 진단 버튼은 공개 버전에서 제거
 
 ## 0.6.7
 
